@@ -1,0 +1,65 @@
+{
+    "Pathfinder": {
+        "checkpoints": [
+            {
+                "steps": 2499997,
+                "file_path": "results\\1025\\Pathfinder\\Pathfinder-2499997.onnx",
+                "reward": 9.807842724351769,
+                "creation_time": 1669922804.7501132,
+                "auxillary_file_paths": [
+                    "results\\1025\\Pathfinder\\Pathfinder-2499997.pt"
+                ]
+            },
+            {
+                "steps": 2999999,
+                "file_path": "results\\1025\\Pathfinder\\Pathfinder-2999999.onnx",
+                "reward": 9.827343664767648,
+                "creation_time": 1669923907.8201902,
+                "auxillary_file_paths": [
+                    "results\\1025\\Pathfinder\\Pathfinder-2999999.pt"
+                ]
+            },
+            {
+                "steps": 3499999,
+                "file_path": "results\\1025\\Pathfinder\\Pathfinder-3499999.onnx",
+                "reward": 9.854850758274289,
+                "creation_time": 1669925023.9568028,
+                "auxillary_file_paths": [
+                    "results\\1025\\Pathfinder\\Pathfinder-3499999.pt"
+                ]
+            },
+            {
+                "steps": 3999998,
+                "file_path": "results\\1025\\Pathfinder\\Pathfinder-3999998.onnx",
+                "reward": 9.842725438908788,
+                "creation_time": 1669926150.074905,
+                "auxillary_file_paths": [
+                    "results\\1025\\Pathfinder\\Pathfinder-3999998.pt"
+                ]
+            },
+            {
+                "steps": 4090416,
+                "file_path": "results\\1025\\Pathfinder\\Pathfinder-4090416.onnx",
+                "reward": null,
+                "creation_time": 1669926354.0912213,
+                "auxillary_file_paths": [
+                    "results\\1025\\Pathfinder\\Pathfinder-4090416.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4090416,
+            "file_path": "results\\1025\\Pathfinder.onnx",
+            "reward": null,
+            "creation_time": 1669926354.0912213,
+            "auxillary_file_paths": [
+                "results\\1025\\Pathfinder\\Pathfinder-4090416.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.12.1+cpu"
+    }
+}
